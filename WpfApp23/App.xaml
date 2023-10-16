@@ -7,7 +7,7 @@
         <Style x:Key="topButton" TargetType="Button">
             <Setter Property="Background" Value="Transparent"/>
             <Setter Property="Foreground" Value="#6e7783"/>
-            <Setter Property="Foregroun" Value="#6e7783"/>
+            <Setter Property="Foreground" Value="#6e7783"/>
             <Setter Property="Foreground" Value="#6e7783"/>
             <Setter Property="Foreground" Value="#6e7783"/>
             <Setter Property="Foreground" Value="#6e7783"/>
